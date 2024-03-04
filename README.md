@@ -4,7 +4,6 @@
 # Screenshots
 ---
 
-```html
 <img src="screenshots/ss1.png" height="400"> <img src="screenshots/ss2.png" height="400">
-```
+
 ---
